@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "~/Dropbox/Karriar/joolify/joolify_app_dev/Resources/iStick Resources 2021/istick_usables_2021/robot/4K/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "calf", "bone": "root", "attachment": "calf" },
+	{ "name": "thigh", "bone": "root", "attachment": "thigh" },
+	{ "name": "foot", "bone": "root", "attachment": "foot" },
+	{ "name": "cannon", "bone": "root", "attachment": "cannon" },
+	{ "name": "controlcabin", "bone": "root", "attachment": "controlcabin" }
+],
+"skins": {
+	"default": {
+		"calf": {
+			"calf": { "x": 3296.5, "y": -2372.5, "width": 419, "height": 175 }
+		},
+		"thigh": {
+			"thigh": { "x": 3324, "y": -2168, "width": 444, "height": 472 }
+		},
+		"foot": {
+			"foot": { "x": 3288, "y": -2601.5, "width": 684, "height": 465 }
+		},
+		"cannon": {
+			"cannon": { "x": 3476.5, "y": -1580.5, "width": 1005, "height": 475 }
+		},
+		"controlcabin": {
+			"controlcabin": { "x": 3238.5, "y": -1689.5, "width": 955, "height": 837 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

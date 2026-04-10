@@ -1,0 +1,116 @@
+
+alienworld.png
+size: 6674,5430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_mushroom2
+  rotate: false
+  xy: 2, 444
+  size: 2233, 2185
+  orig: 2233, 2185
+  offset: 0, 0
+  index: -1
+blue_mushroom3
+  rotate: true
+  xy: 910, 5013
+  size: 415, 611
+  orig: 415, 611
+  offset: 0, 0
+  index: -1
+blue_mushroom4
+  rotate: true
+  xy: 4056, 4681
+  size: 747, 892
+  orig: 747, 892
+  offset: 0, 0
+  index: -1
+blue_mushroom5
+  rotate: true
+  xy: 1523, 4917
+  size: 511, 1182
+  orig: 511, 1182
+  offset: 0, 0
+  index: -1
+foregrounf
+  rotate: false
+  xy: 2, 2631
+  size: 6670, 1060
+  orig: 6670, 1060
+  offset: 0, 0
+  index: -1
+green_mushroom1
+  rotate: false
+  xy: 2707, 4911
+  size: 538, 517
+  orig: 1436, 517
+  offset: 898, 0
+  index: -1
+red_mushroom2
+  rotate: true
+  xy: 2, 3693
+  size: 1222, 1894
+  orig: 6331, 1894
+  offset: 5109, 0
+  index: -1
+red_mushroom3
+  rotate: true
+  xy: 4950, 4679
+  size: 749, 1247
+  orig: 749, 1247
+  offset: 0, 0
+  index: -1
+red_mushroom4
+  rotate: true
+  xy: 2237, 2
+  size: 2627, 3708
+  orig: 2627, 3708
+  offset: 0, 0
+  index: -1
+red_mushroom5
+  rotate: true
+  xy: 2, 5015
+  size: 413, 906
+  orig: 413, 906
+  offset: 0, 0
+  index: -1
+red_mushroom6
+  rotate: true
+  xy: 3247, 4876
+  size: 552, 807
+  orig: 552, 807
+  offset: 0, 0
+  index: -1
+
+alienworld2.png
+size: 6785,2929
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_mushroom1
+  rotate: true
+  xy: 2, 160
+  size: 2767, 2782
+  orig: 2767, 2782
+  offset: 0, 0
+  index: -1
+red_mushroom1
+  rotate: true
+  xy: 2786, 2
+  size: 2925, 3997
+  orig: 2925, 3997
+  offset: 0, 0
+  index: -1
+
+alienworld3.png
+size: 6672,4141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 6668, 4137
+  orig: 6670, 4139
+  offset: 1, 1
+  index: -1

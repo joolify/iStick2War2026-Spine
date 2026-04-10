@@ -1,0 +1,88 @@
+{ "skeleton": { "images": "~/source/repos/iStick2War-Spine/fiverr/Alien/Skins/Black/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "torso", "bone": "root", "attachment": "torso" },
+	{ "name": "frontUpperArm", "bone": "root", "attachment": "frontUpperArm" },
+	{ "name": "arm-upper", "bone": "root", "attachment": "arm-upper" },
+	{ "name": "frontLowerArm", "bone": "root", "attachment": "frontLowerArm" },
+	{ "name": "arm-lower", "bone": "root", "attachment": "arm-lower" },
+	{ "name": "leg-upper", "bone": "root", "attachment": "leg-upper" },
+	{ "name": "leg-lower", "bone": "root", "attachment": "leg-lower" },
+	{ "name": "foot", "bone": "root", "attachment": "foot" },
+	{ "name": "alienweapon10", "bone": "root", "attachment": "alienweapon10" },
+	{ "name": "alienweapon9", "bone": "root", "attachment": "alienweapon9" },
+	{ "name": "alienweapon8", "bone": "root", "attachment": "alienweapon8" },
+	{ "name": "alienweapon7", "bone": "root", "attachment": "alienweapon7" },
+	{ "name": "alienweapon6", "bone": "root", "attachment": "alienweapon6" },
+	{ "name": "alienweapon5", "bone": "root", "attachment": "alienweapon5" },
+	{ "name": "alienweapon4", "bone": "root", "attachment": "alienweapon4" },
+	{ "name": "alienweapon3", "bone": "root", "attachment": "alienweapon3" },
+	{ "name": "alienweapon2", "bone": "root", "attachment": "alienweapon2" },
+	{ "name": "alienweapon1", "bone": "root", "attachment": "alienweapon1" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"torso": {
+			"torso": { "x": 1019, "y": -917, "width": 252, "height": 260 }
+		},
+		"frontUpperArm": {
+			"frontUpperArm": { "x": 1049, "y": -903, "width": 120, "height": 192 }
+		},
+		"arm-upper": {
+			"arm-upper": { "x": 904.5, "y": -873.5, "width": 153, "height": 165 }
+		},
+		"frontLowerArm": {
+			"frontLowerArm": { "x": 1137.5, "y": -1074, "width": 115, "height": 196 }
+		},
+		"arm-lower": {
+			"arm-lower": { "x": 798.5, "y": -1024, "width": 113, "height": 194 }
+		},
+		"leg-upper": {
+			"leg-upper": { "x": 915, "y": -1087.5, "width": 66, "height": 181 }
+		},
+		"leg-lower": {
+			"leg-lower": { "x": 826, "y": -1245.5, "width": 198, "height": 209 }
+		},
+		"foot": {
+			"foot": { "x": 765, "y": -1363.5, "width": 118, "height": 113 }
+		},
+		"alienweapon10": {
+			"alienweapon10": { "x": 1773, "y": -1863.5, "width": 190, "height": 131 }
+		},
+		"alienweapon9": {
+			"alienweapon9": { "x": 1518.5, "y": -1868.5, "width": 229, "height": 125 }
+		},
+		"alienweapon8": {
+			"alienweapon8": { "x": 1256, "y": -1868.5, "width": 182, "height": 135 }
+		},
+		"alienweapon7": {
+			"alienweapon7": { "x": 1026.5, "y": -1865, "width": 161, "height": 104 }
+		},
+		"alienweapon6": {
+			"alienweapon6": { "x": 1071, "y": -1683, "width": 248, "height": 106 }
+		},
+		"alienweapon5": {
+			"alienweapon5": { "x": 1403.5, "y": -1681, "width": 255, "height": 108 }
+		},
+		"alienweapon4": {
+			"alienweapon4": { "x": 1729.5, "y": -1669.5, "width": 277, "height": 101 }
+		},
+		"alienweapon3": {
+			"alienweapon3": { "x": 1797.5, "y": -1143, "width": 249, "height": 112 }
+		},
+		"alienweapon2": {
+			"alienweapon2": { "x": 1592.5, "y": -1444.5, "width": 233, "height": 119 }
+		},
+		"alienweapon1": {
+			"alienweapon1": { "x": 1797.5, "y": -1296.5, "width": 255, "height": 137 }
+		},
+		"head": {
+			"head": { "x": 1004.5, "y": -700.5, "width": 157, "height": 203 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

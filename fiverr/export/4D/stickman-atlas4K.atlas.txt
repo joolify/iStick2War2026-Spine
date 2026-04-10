@@ -1,0 +1,767 @@
+
+stickman-atlas4K.png
+size: 8036,3928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backpack
+  rotate: true
+  xy: 6968, 2645
+  size: 218, 443
+  orig: 220, 445
+  offset: 1, 1
+  index: -1
+backpackSpace
+  rotate: true
+  xy: 6817, 2
+  size: 146, 420
+  orig: 148, 422
+  offset: 1, 1
+  index: -1
+bazooka
+  rotate: true
+  xy: 900, 1717
+  size: 171, 959
+  orig: 173, 961
+  offset: 1, 1
+  index: -1
+browning auto-5
+  rotate: false
+  xy: 6896, 3596
+  size: 738, 149
+  orig: 740, 151
+  offset: 1, 1
+  index: -1
+carbine
+  rotate: false
+  xy: 5893, 155
+  size: 759, 149
+  orig: 761, 151
+  offset: 1, 1
+  index: -1
+colt45
+  rotate: true
+  xy: 1968, 1568
+  size: 172, 111
+  orig: 174, 113
+  offset: 1, 1
+  index: -1
+crosshair
+  rotate: false
+  xy: 5963, 1122
+  size: 1440, 1426
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+dep1
+  rotate: true
+  xy: 1230, 1410
+  size: 149, 360
+  orig: 151, 362
+  offset: 1, 1
+  index: -1
+dep2
+  rotate: false
+  xy: 3798, 2155
+  size: 266, 821
+  orig: 268, 823
+  offset: 1, 1
+  index: -1
+dep3
+  rotate: true
+  xy: 4316, 3564
+  size: 362, 2578
+  orig: 364, 2580
+  offset: 1, 1
+  index: -1
+dep4
+  rotate: false
+  xy: 2, 1348
+  size: 896, 2578
+  orig: 898, 2580
+  offset: 1, 1
+  index: -1
+dep5
+  rotate: true
+  xy: 2096, 2978
+  size: 948, 2218
+  orig: 950, 2220
+  offset: 1, 1
+  index: -1
+dep6
+  rotate: false
+  xy: 900, 1890
+  size: 1194, 2036
+  orig: 1196, 2038
+  offset: 1, 1
+  index: -1
+dep7
+  rotate: true
+  xy: 2096, 1538
+  size: 1438, 1700
+  orig: 1440, 1702
+  offset: 1, 1
+  index: -1
+dep8
+  rotate: false
+  xy: 1639, 38
+  size: 1659, 1498
+  orig: 1661, 1500
+  offset: 1, 1
+  index: -1
+flamegun
+  rotate: false
+  xy: 5893, 16
+  size: 485, 137
+  orig: 487, 139
+  offset: 1, 1
+  index: -1
+flamepack
+  rotate: true
+  xy: 6380, 2
+  size: 146, 435
+  orig: 148, 437
+  offset: 1, 1
+  index: -1
+grenade
+  rotate: true
+  xy: 4066, 2165
+  size: 66, 110
+  orig: 68, 112
+  offset: 1, 1
+  index: -1
+grenade_shoot
+  rotate: true
+  xy: 1230, 1348
+  size: 60, 86
+  orig: 62, 88
+  offset: 1, 1
+  index: -1
+hat01
+  rotate: true
+  xy: 7805, 2368
+  size: 245, 221
+  orig: 247, 223
+  offset: 1, 1
+  index: -1
+hat02
+  rotate: true
+  xy: 4033, 1832
+  size: 321, 286
+  orig: 324, 288
+  offset: 1, 1
+  index: -1
+hat03
+  rotate: true
+  xy: 7633, 1295
+  size: 333, 249
+  orig: 335, 251
+  offset: 1, 1
+  index: -1
+hat04
+  rotate: false
+  xy: 7790, 3628
+  size: 239, 298
+  orig: 241, 301
+  offset: 1, 1
+  index: -1
+hat05
+  rotate: false
+  xy: 900, 1348
+  size: 328, 367
+  orig: 330, 370
+  offset: 1, 2
+  index: -1
+hat06
+  rotate: false
+  xy: 7405, 1953
+  size: 371, 332
+  orig: 373, 334
+  offset: 1, 1
+  index: -1
+hat07
+  rotate: false
+  xy: 7633, 1095
+  size: 281, 198
+  orig: 284, 200
+  offset: 2, 1
+  index: -1
+hat08
+  rotate: false
+  xy: 7658, 576
+  size: 273, 285
+  orig: 276, 287
+  offset: 2, 1
+  index: -1
+hat09
+  rotate: true
+  xy: 7612, 863
+  size: 230, 237
+  orig: 233, 239
+  offset: 2, 1
+  index: -1
+hat10
+  rotate: false
+  xy: 7735, 1749
+  size: 299, 202
+  orig: 302, 205
+  offset: 2, 1
+  index: -1
+hat11
+  rotate: true
+  xy: 4033, 1538
+  size: 292, 176
+  orig: 294, 179
+  offset: 1, 1
+  index: -1
+hat12
+  rotate: true
+  xy: 7778, 1969
+  size: 316, 230
+  orig: 318, 232
+  offset: 1, 1
+  index: -1
+hat13
+  rotate: false
+  xy: 7680, 294
+  size: 280, 280
+  orig: 282, 282
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 7605, 38
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+headBlown
+  rotate: false
+  xy: 7844, 2615
+  size: 174, 248
+  orig: 176, 250
+  offset: 1, 1
+  index: -1
+headOff1
+  rotate: true
+  xy: 7405, 1209
+  size: 419, 226
+  orig: 421, 228
+  offset: 1, 1
+  index: -1
+headOff2
+  rotate: true
+  xy: 7388, 312
+  size: 254, 290
+  orig: 256, 292
+  offset: 1, 1
+  index: -1
+headOff3
+  rotate: false
+  xy: 7413, 2631
+  size: 429, 232
+  orig: 431, 234
+  offset: 1, 1
+  index: -1
+headOff4
+  rotate: false
+  xy: 1861, 1742
+  size: 182, 146
+  orig: 184, 148
+  offset: 1, 1
+  index: -1
+headOff5
+  rotate: false
+  xy: 4649, 53
+  size: 136, 57
+  orig: 138, 59
+  offset: 1, 1
+  index: -1
+headOff6
+  rotate: false
+  xy: 7388, 863
+  size: 222, 255
+  orig: 226, 259
+  offset: 2, 2
+  index: -1
+headOff7
+  rotate: true
+  xy: 7851, 950
+  size: 143, 138
+  orig: 146, 140
+  offset: 2, 1
+  index: -1
+heroHelmet
+  rotate: false
+  xy: 7388, 568
+  size: 268, 293
+  orig: 270, 295
+  offset: 1, 1
+  index: -1
+heroHelmetStrap
+  rotate: false
+  xy: 7239, 6
+  size: 62, 142
+  orig: 64, 145
+  offset: 1, 2
+  index: -1
+ithaca 37
+  rotate: true
+  xy: 6654, 150
+  size: 154, 666
+  orig: 156, 668
+  offset: 1, 1
+  index: -1
+ithaca 37 reload
+  rotate: true
+  xy: 1230, 1561
+  size: 154, 666
+  orig: 156, 668
+  offset: 1, 1
+  index: -1
+land1
+  rotate: false
+  xy: 4326, 1163
+  size: 1635, 1385
+  orig: 1639, 1388
+  offset: 2, 2
+  index: -1
+land2
+  rotate: false
+  xy: 2, 69
+  size: 1635, 1277
+  orig: 1637, 1279
+  offset: 1, 1
+  index: -1
+land3
+  rotate: false
+  xy: 4326, 112
+  size: 1565, 1049
+  orig: 1568, 1052
+  offset: 2, 2
+  index: -1
+land4
+  rotate: true
+  xy: 3300, 42
+  size: 1494, 1024
+  orig: 1498, 1028
+  offset: 2, 2
+  index: -1
+land5
+  rotate: false
+  xy: 6352, 2865
+  size: 1583, 697
+  orig: 1585, 700
+  offset: 1, 1
+  index: -1
+land6
+  rotate: false
+  xy: 5893, 306
+  size: 1493, 814
+  orig: 1495, 816
+  offset: 1, 1
+  index: -1
+land7
+  rotate: false
+  xy: 4316, 2550
+  size: 1761, 632
+  orig: 1764, 634
+  offset: 1, 1
+  index: -1
+land8
+  rotate: false
+  xy: 4316, 3184
+  size: 2034, 378
+  orig: 2090, 440
+  offset: 3, 62
+  index: -1
+mp40
+  rotate: true
+  xy: 6079, 2670
+  size: 512, 251
+  orig: 514, 253
+  offset: 1, 1
+  index: -1
+muzzle1_0
+  rotate: true
+  xy: 1898, 1538
+  size: 202, 68
+  orig: 204, 70
+  offset: 1, 1
+  index: -1
+muzzle1_1
+  rotate: false
+  xy: 4211, 1581
+  size: 113, 63
+  orig: 115, 65
+  offset: 1, 1
+  index: -1
+muzzle1_2
+  rotate: true
+  xy: 7861, 2
+  size: 105, 57
+  orig: 108, 59
+  offset: 1, 1
+  index: -1
+muzzle2_0
+  rotate: false
+  xy: 6079, 2572
+  size: 208, 96
+  orig: 210, 98
+  offset: 1, 1
+  index: -1
+muzzle2_1
+  rotate: true
+  xy: 4211, 1646
+  size: 184, 100
+  orig: 187, 103
+  offset: 2, 2
+  index: -1
+muzzle2_2
+  rotate: true
+  xy: 7937, 3185
+  size: 135, 94
+  orig: 137, 97
+  offset: 1, 2
+  index: -1
+muzzle3_0
+  rotate: false
+  xy: 7405, 1120
+  size: 226, 87
+  orig: 228, 90
+  offset: 1, 1
+  index: -1
+muzzle3_1
+  rotate: true
+  xy: 7861, 109
+  size: 183, 94
+  orig: 186, 96
+  offset: 2, 1
+  index: -1
+muzzle3_2
+  rotate: true
+  xy: 7937, 3322
+  size: 165, 84
+  orig: 168, 86
+  offset: 1, 1
+  index: -1
+muzzle4_0
+  rotate: false
+  xy: 7735, 1641
+  size: 182, 106
+  orig: 185, 108
+  offset: 1, 1
+  index: -1
+muzzle4_1
+  rotate: false
+  xy: 7636, 3643
+  size: 152, 102
+  orig: 155, 104
+  offset: 1, 1
+  index: -1
+muzzle4_2
+  rotate: true
+  xy: 7937, 3489
+  size: 137, 97
+  orig: 140, 100
+  offset: 1, 2
+  index: -1
+naziHelmet
+  rotate: true
+  xy: 7322, 2
+  size: 302, 281
+  orig: 304, 283
+  offset: 1, 1
+  index: -1
+naziHelmetStrap
+  rotate: true
+  xy: 7805, 2305
+  size: 61, 93
+  orig: 64, 96
+  offset: 1, 2
+  index: -1
+potatoMasher
+  rotate: false
+  xy: 4326, 44
+  size: 321, 66
+  orig: 323, 68
+  offset: 1, 1
+  index: -1
+powerup
+  rotate: false
+  xy: 7405, 2287
+  size: 398, 342
+  orig: 400, 344
+  offset: 1, 1
+  index: -1
+rifle
+  rotate: true
+  xy: 6896, 3747
+  size: 179, 892
+  orig: 181, 894
+  offset: 1, 1
+  index: -1
+rocket
+  rotate: false
+  xy: 2, 21
+  size: 441, 46
+  orig: 443, 48
+  offset: 1, 1
+  index: -1
+rocket_shot
+  rotate: false
+  xy: 445, 21
+  size: 159, 46
+  orig: 161, 48
+  offset: 1, 1
+  index: -1
+spaceMask
+  rotate: false
+  xy: 7405, 1630
+  size: 328, 321
+  orig: 330, 323
+  offset: 1, 1
+  index: -1
+sterlingL2A3
+  rotate: true
+  xy: 4066, 2233
+  size: 743, 204
+  orig: 745, 206
+  offset: 1, 1
+  index: -1
+tesla
+  rotate: true
+  xy: 3798, 1563
+  size: 590, 233
+  orig: 592, 235
+  offset: 1, 1
+  index: -1
+thompson
+  rotate: false
+  xy: 6332, 2661
+  size: 634, 202
+  orig: 636, 204
+  offset: 1, 1
+  index: -1
+
+stickman-atlas4K2.png
+size: 444,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black/images/arm-lower
+  rotate: true
+  xy: 2, 822
+  size: 78, 381
+  orig: 80, 383
+  offset: 1, 1
+  index: -1
+black/images/leg-upper
+  rotate: true
+  xy: 2, 822
+  size: 78, 381
+  orig: 80, 383
+  offset: 1, 1
+  index: -1
+black/images/arm-upper
+  rotate: true
+  xy: 123, 980
+  size: 77, 267
+  orig: 79, 269
+  offset: 1, 1
+  index: -1
+black/images/arm-upper-shoot
+  rotate: true
+  xy: 2, 736
+  size: 84, 88
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+black/images/arm-upper-shoot2
+  rotate: false
+  xy: 303, 556
+  size: 136, 154
+  orig: 138, 156
+  offset: 1, 1
+  index: -1
+black/images/leg-upper-shoot2
+  rotate: false
+  xy: 303, 556
+  size: 136, 154
+  orig: 138, 156
+  offset: 1, 1
+  index: -1
+black/images/foot
+  rotate: true
+  xy: 2, 981
+  size: 76, 119
+  orig: 78, 121
+  offset: 1, 1
+  index: -1
+black/images/leg-lower
+  rotate: true
+  xy: 2, 902
+  size: 76, 430
+  orig: 78, 432
+  offset: 1, 1
+  index: -1
+black/images/leg-upper-shoot
+  rotate: false
+  xy: 285, 712
+  size: 136, 108
+  orig: 138, 110
+  offset: 1, 1
+  index: -1
+black/images/leg-upper-shoot3
+  rotate: true
+  xy: 2, 461
+  size: 136, 282
+  orig: 138, 284
+  offset: 1, 1
+  index: -1
+black/images/leg-upper-shoot4
+  rotate: true
+  xy: 2, 323
+  size: 136, 335
+  orig: 138, 337
+  offset: 1, 1
+  index: -1
+black/images/torso
+  rotate: true
+  xy: 2, 163
+  size: 158, 411
+  orig: 160, 413
+  offset: 1, 1
+  index: -1
+black/images/torso-shoot
+  rotate: true
+  xy: 2, 2
+  size: 159, 405
+  orig: 162, 407
+  offset: 1, 1
+  index: -1
+black/images/torso-shoot2
+  rotate: true
+  xy: 2, 599
+  size: 111, 299
+  orig: 115, 301
+  offset: 1, 1
+  index: -1
+black/images/torso-shoot3
+  rotate: true
+  xy: 92, 714
+  size: 106, 191
+  orig: 108, 194
+  offset: 1, 1
+  index: -1
+
+stickman-atlas4K3.png
+size: 824,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+white/images/arm-lower
+  rotate: true
+  xy: 394, 496
+  size: 79, 378
+  orig: 79, 379
+  offset: 0, 1
+  index: -1
+white/images/arm-upper
+  rotate: true
+  xy: 2, 497
+  size: 78, 268
+  orig: 79, 269
+  offset: 0, 1
+  index: -1
+white/images/arm-upper-shoot
+  rotate: true
+  xy: 2, 329
+  size: 85, 89
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+white/images/arm-upper-shoot2
+  rotate: true
+  xy: 2, 169
+  size: 136, 155
+  orig: 138, 156
+  offset: 1, 1
+  index: -1
+white/images/leg-upper-shoot2
+  rotate: true
+  xy: 2, 169
+  size: 136, 155
+  orig: 138, 156
+  offset: 1, 1
+  index: -1
+white/images/foot
+  rotate: true
+  xy: 272, 497
+  size: 78, 120
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+white/images/leg-lower
+  rotate: true
+  xy: 2, 416
+  size: 78, 432
+  orig: 78, 432
+  offset: 0, 0
+  index: -1
+white/images/leg-upper
+  rotate: true
+  xy: 436, 414
+  size: 80, 381
+  orig: 80, 382
+  offset: 0, 1
+  index: -1
+white/images/leg-upper-shoot
+  rotate: false
+  xy: 286, 305
+  size: 136, 109
+  orig: 138, 110
+  offset: 1, 1
+  index: -1
+white/images/leg-upper-shoot3
+  rotate: true
+  xy: 159, 163
+  size: 136, 283
+  orig: 138, 284
+  offset: 1, 1
+  index: -1
+white/images/leg-upper-shoot4
+  rotate: true
+  xy: 444, 163
+  size: 136, 336
+  orig: 138, 337
+  offset: 1, 1
+  index: -1
+white/images/torso
+  rotate: true
+  xy: 2, 3
+  size: 158, 412
+  orig: 160, 413
+  offset: 1, 1
+  index: -1
+white/images/torso-shoot
+  rotate: true
+  xy: 416, 2
+  size: 159, 405
+  orig: 162, 407
+  offset: 1, 1
+  index: -1
+white/images/torso-shoot2
+  rotate: true
+  xy: 424, 301
+  size: 111, 299
+  orig: 115, 301
+  offset: 1, 1
+  index: -1
+white/images/torso-shoot3
+  rotate: true
+  xy: 93, 307
+  size: 107, 191
+  orig: 108, 194
+  offset: 0, 1
+  index: -1

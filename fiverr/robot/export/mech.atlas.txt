@@ -1,0 +1,55 @@
+
+mech.png
+size: 2436,2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+calf
+  rotate: false
+  xy: 1430, 658
+  size: 501, 208
+  orig: 503, 210
+  offset: 1, 1
+  index: -1
+cannon
+  rotate: false
+  xy: 2, 2
+  size: 1204, 568
+  orig: 1206, 570
+  offset: 1, 1
+  index: -1
+controlcabin
+  rotate: true
+  xy: 1430, 868
+  size: 1144, 1002
+  orig: 1146, 1004
+  offset: 1, 1
+  index: -1
+crosshair
+  rotate: true
+  xy: 2, 572
+  size: 1440, 1426
+  orig: 1440, 1440
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 1741, 28
+  size: 535, 556
+  orig: 535, 556
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: false
+  xy: 1208, 6
+  size: 531, 564
+  orig: 533, 566
+  offset: 1, 1
+  index: -1
+toe
+  rotate: false
+  xy: 1933, 565
+  size: 445, 301
+  orig: 445, 301
+  offset: 0, 0
+  index: -1
