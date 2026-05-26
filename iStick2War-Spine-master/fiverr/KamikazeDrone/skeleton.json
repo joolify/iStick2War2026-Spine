@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "lYbYZ8tNiZw",
+	"hash": "BQl8XrT/ew8",
 	"spine": "4.2.43",
-	"x": -1390.48,
-	"y": -621.86,
-	"width": 2023.35,
-	"height": 1255.9,
+	"x": -1391.29,
+	"y": -621.66,
+	"width": 2022.98,
+	"height": 1255.16,
 	"images": "C:/repos/web4myself/web4myself/Final/ChatGPT-Graphics/KamikazeDrone/",
 	"audio": "./audio"
 },
@@ -14,7 +14,7 @@
 ],
 "slots": [
 	{ "name": "kamikazeDroneBody", "bone": "root", "attachment": "kamikazeDroneBody" },
-	{ "name": "kamikazeDroneRobotLeft", "bone": "root", "attachment": "kamikazeDroneRobotLeft-2" },
+	{ "name": "kamikazeDroneRobotLeft", "bone": "root", "attachment": "kamikazeDroneRobotLeft" },
 	{ "name": "kamikazeDroneRotorRight", "bone": "root", "attachment": "kamikazeDroneRotorRight-2" }
 ],
 "skins": [
@@ -38,15 +38,15 @@
 		"name": "KamizakeDroneSevered",
 		"attachments": {
 			"kamikazeDroneBody": {
-				"kamikazeDroneBody": { "name": "kamikazeDroneSeveredBody", "x": 3.5, "y": 6.5, "width": 1254, "height": 1254 }
+				"kamikazeDroneBody": { "x": 3.5, "y": 6.5, "width": 1254, "height": 1254 }
 			},
 			"kamikazeDroneRobotLeft": {
-				"kamikazeDroneRobotLeft": { "name": "kamikazeDroneSeveredRotorLeft", "x": 3.11, "y": -3.61, "width": 1254, "height": 1254 },
-				"kamikazeDroneRobotLeft-2": { "name": "kamikazeDroneSeveredRotorRight", "x": 66.66, "y": 0.44, "width": 1254, "height": 1254 }
+				"kamikazeDroneRobotLeft": { "x": -764.29, "y": 5.78, "width": 1254, "height": 1254 },
+				"kamikazeDroneRobotLeft-2": { "name": "kamikazeDroneRotorRight", "x": -763.68, "y": 6.73, "width": 1254, "height": 1254 }
 			},
 			"kamikazeDroneRotorRight": {
-				"kamikazeDroneRotorRight": { "name": "kamikazeDroneSeveredRotorLeft", "x": 790.98, "y": -32, "width": 1254, "height": 1254 },
-				"kamikazeDroneRotorRight-2": { "name": "kamikazeDroneSeveredRotorRight", "x": 854.05, "y": -35.52, "width": 1254, "height": 1254 }
+				"kamikazeDroneRotorRight": { "name": "kamikazeDroneRobotLeft", "x": 4.45, "y": 5.29, "width": 1254, "height": 1254 },
+				"kamikazeDroneRotorRight-2": { "name": "kamikazeDroneRotorRight", "x": 4.7, "y": 5.34, "width": 1254, "height": 1254 }
 			}
 		}
 	}
@@ -56,6 +56,7 @@
 		"slots": {
 			"kamikazeDroneRobotLeft": {
 				"attachment": [
+					{ "name": "kamikazeDroneRobotLeft-2" },
 					{ "time": 0.0667, "name": "kamikazeDroneRobotLeft" },
 					{ "time": 0.1333, "name": "kamikazeDroneRobotLeft-2" }
 				]
