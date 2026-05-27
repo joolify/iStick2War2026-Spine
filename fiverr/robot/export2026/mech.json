@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "wRK4dsKcZGM",
+	"hash": "byZ4o6s/RdE",
 	"spine": "4.2.43",
 	"x": -14.5,
 	"y": -6.18,
@@ -154,15 +154,6 @@
 					"rotation": -50.16,
 					"width": 871,
 					"height": 775
-				},
-				"controlcabin": {
-					"x": 74.72,
-					"y": 6.12,
-					"scaleX": 0.23,
-					"scaleY": 0.23,
-					"rotation": -50.16,
-					"width": 955,
-					"height": 837
 				}
 			},
 			"crosshair": {

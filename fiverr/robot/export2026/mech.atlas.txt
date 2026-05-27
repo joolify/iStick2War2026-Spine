@@ -6,6 +6,9 @@ scale:1.2
 body
 bounds:1444,572,1003,881
 offsets:33,35,1045,930
+controlCabin
+bounds:1444,572,1003,881
+offsets:33,35,1045,930
 calf
 bounds:2982,952,501,208
 offsets:1,1,503,210
